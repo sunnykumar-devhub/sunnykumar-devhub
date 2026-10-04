@@ -28,6 +28,15 @@ I build fast, role-based web apps with **React, Next.js and TypeScript**, across
 
 <sub>Company projects; their codebases are private. More on my <a href="https://sunnykdev.vercel.app/projects">portfolio</a>.</sub>
 
+### 🧪 Personal projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**My_Portfolio**](https://github.com/sunnykumar-devhub/My_Portfolio) | My portfolio site, [sunnykdev.vercel.app](https://sunnykdev.vercel.app) | Next.js · TypeScript · MUI · Framer Motion |
+| [**TaskTracker**](https://github.com/sunnykumar-devhub/TaskTracker) | Role-based task tracker with Admin and Developer dashboards and a drag-and-drop board | React · Redux Toolkit · React DnD · Chart.js |
+| [**SSR Styles**](https://github.com/sunnykumar-devhub/SSR_Frontend) | Full-stack fashion e-commerce: [storefront](https://github.com/sunnykumar-devhub/SSR_Frontend), [admin panel](https://github.com/sunnykumar-devhub/SSRAdmin) and [REST API](https://github.com/sunnykumar-devhub/SSRStyles) | React · Node.js · Express · MongoDB · JWT |
+| [**Healthcare Dashboard**](https://github.com/sunnykumar-devhub/healthcare_dashboard) | Patient health dashboard UI with calendar, schedule and activity chart | React · Material UI · Recharts |
+
 ### 🧰 Tech stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
